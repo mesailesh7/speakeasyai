@@ -23,7 +23,7 @@ const Banner = () => {
         <Link href="/#pricing" className="flex gap-2 items-center">
           <span className="relative">
             Get SpeakEasy
-            <ArrowRight className="absolute-bottom-1 left-0 w-full h-0.5 bg-white transform scale-x-0 transition-transform duration-300 origin-left group-hover:scale-x-100" />{" "}
+            <ArrowRight className="absolute-bottom-1 left-0 w-full h-0.5 bg-white transform scale-x-0 trzansition-transform duration-300 origin-left group-hover:scale-x-100" />{" "}
           </span>
           <ArrowRight className="animate-pulse" />
         </Link>
